@@ -1,0 +1,4 @@
+# If you cannot set DocumentRoot to /public, at least protect non-public files.
+<FilesMatch "^(config\.php|config\.sample\.php)$">
+  Require all denied
+</FilesMatch>
