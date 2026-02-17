@@ -1,6 +1,6 @@
 # Yealink Phonebook Manager (PHP 7.2 / MySQL 5.7)
 
-A small self-hosted phonebook backend for Yealink phones (tested with T46G UI), designed for old homelab stacks (Ubuntu 16.04 / Apache 2.4 / PHP 7.2 / MySQL 5.7).
+A small self-hosted phonebook backend for Yealink phones (tested with T46G UI), designed for old homelab stacks (Ubuntu 16.04 / Apache 2.4 / PHP 7.2 / MySQL 5.7) might also work on newer phones and ubuntu version.
 
 ## Features
 
